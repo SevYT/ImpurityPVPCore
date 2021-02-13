@@ -1,0 +1,5 @@
+#Y level to randomly spawn players at when they go into the 2b nether arena.
+YLevel: 140
+
+#Item frame gui title.
+FrameFormat: "        &e&l<< &r&bImpurityPVP&r&e&l >>"

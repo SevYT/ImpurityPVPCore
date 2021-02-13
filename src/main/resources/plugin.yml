@@ -1,0 +1,12 @@
+name: ImpurityPVPCore
+version: ${project.version}
+main: me.impurity.impuritypvp.ImpurityPVP
+authors: [SevJ6]
+description: Core plugin for ImpurityPVP
+commands:
+  kitcreator:
+  spawn:
+  nether:
+  rot:
+  anarchy:
+  hopper32k:
